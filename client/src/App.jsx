@@ -132,6 +132,13 @@ const vehicles = [
    ========================================================= */
 
 const services = [
+   {
+    title: "Airport Transfer",
+    description:
+      "On-time airport pickup and drop service with comfortable vehicles.",
+    icon: "✈️",
+  },
+  
   {
     title: "Local Cab",
     description:
@@ -146,12 +153,7 @@ const services = [
     icon: "🛣️",
   },
 
-  {
-    title: "Airport Transfer",
-    description:
-      "On-time airport pickup and drop service with comfortable vehicles.",
-    icon: "✈️",
-  },
+ 
 
   {
     title: "Corporate Travel",
